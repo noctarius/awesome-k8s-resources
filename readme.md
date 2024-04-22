@@ -141,6 +141,7 @@ Items with :green_heart: indicate open source projects.
 - :green_heart:[Longhorn](https://github.com/longhorn/longhorn) :fire::fire::fire::fire::fire: - Longhorn is a distributed block storage system for Kubernetes.
 - :green_heart:[OpenEBS](https://github.com/openebs/openebs) :fire::fire::fire::fire::fire: - OpenEBS is the most widely deployed and easy to use open-source storage solution for Kubernetes.
 - :green_heart:[Rook](https://github.com/rook/rook) :fire::fire::fire::fire::fire: - Rook is an open source cloud-native storage orchestrator for Kubernetes.
+- :green_heart:[simplyblock Kubernetes Persistent Volume](https://www.simplyblock.io/kubernetes-storage) - Simplyblock is a high-performance, disaggregated, and distributed software-defined storage for Kubernetes Persistent Volumes.
 
 ### Testing and Troubleshooting
 - :green_heart:[Chainsaw](https://github.com/kyverno/chainsaw) :fire: - The ultimate end to end testing tool for Kubernetes operators.
